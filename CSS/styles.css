@@ -1,0 +1,31 @@
+body{
+  background: #CCCCFF;
+}
+.Head {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+h1{
+  margin: 20px;
+  font-size: 5rem;
+  color: Red;
+}
+.dice-area {
+  margin: 0px 50px;
+  text-align: center;
+  display: inline-block;
+}
+p {
+  font-size: 2rem;
+  color: white;
+}
+img{
+  width: 240px;
+}
+button {
+  width: 80px;
+  height: 45px;
+  font-size: 1rem;
+}
